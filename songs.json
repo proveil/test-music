@@ -3,7 +3,7 @@
     "title": "In The Illusion",
     "artist": "Basick",
     "cover": "https://www.dropbox.com/scl/fi/6aftyz6575tuojclmzcwx/ab67616d0000b27340606bbbdc4edad6636bb8a8.jpeg?rlkey=pninvpux4v3rpa0la99boxrig&st=1bnmyeje&raw=1",
-    "src": "https://www.dropbox.com/scl/fi/kow0iuiq38b0mevblqp21/unlasting_spotdown.org.mp3?rlkey=m6usgu27mjjvdas0vtvzwp890&st=3zis2jfr&raw=1"
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/v1776581792/In_The_Illusion_owt9a4.mp3"
   },
   {
     "title": "Aching",
@@ -16,5 +16,11 @@
     "artist": "Park Boram",
     "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776583860/ab67616d0000b2731ccba0bc5e48b7dba39cef86_gmwm7d.jpg",
     "src": "https://res.cloudinary.com/dhbngei3p/video/upload/v1776583938/Please_say_something_even_though_it_is_a_lie_tmsaev.mp3"
+  },
+  {
+    "title": "Dance In The Game",
+    "artist": "ZAQ",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776585983/ab67616d0000b2732f468600aaefa4ac3aad9e3a_qmtqsv.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/v1776586052/Dance_In_The_Game_iswb6v.mp3"
   }
 ]
