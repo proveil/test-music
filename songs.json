@@ -1,15 +1,14 @@
 [
-    {
-        "title": "In The Illusion",
-        "artist": "Basick",
-        "cover": "https://www.dropbox.com/scl/fi/6aftyz6575tuojclmzcwx/ab67616d0000b27340606bbbdc4edad6636bb8a8.jpeg?rlkey=pninvpux4v3rpa0la99boxrig&st=1bnmyeje&raw=1",
-        "song": "https://www.dropbox.com/scl/fi/kow0iuiq38b0mevblqp21/unlasting_spotdown.org.mp3?rlkey=m6usgu27mjjvdas0vtvzwp890&st=3zis2jfr&raw=1",
-        "src": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776581577/ab67616d00001e02dba91bafd3f5aba3ef8d39e3_g5zso1.jpg"
-    },
-    {
-        "title": "Aching",
-        "artist": "Kassy",
-        "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776581913/ab67616d0000b273a153641a9a5266c40757f5b7_bkkir2.jpg",
-        "src: "https://res.cloudinary.com/dhbngei3p/video/upload/v1776582015/Aching_bgcmss.mp3"
-    }
+  {
+    "title": "In The Illusion",
+    "artist": "Basick",
+    "cover": "https://www.dropbox.com/scl/fi/6aftyz6575tuojclmzcwx/ab67616d0000b27340606bbbdc4edad6636bb8a8.jpeg?rlkey=pninvpux4v3rpa0la99boxrig&st=1bnmyeje&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/kow0iuiq38b0mevblqp21/unlasting_spotdown.org.mp3?rlkey=m6usgu27mjjvdas0vtvzwp890&st=3zis2jfr&raw=1"
+  },
+  {
+    "title": "Aching",
+    "artist": "Kassy",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776581913/ab67616d0000b273a153641a9a5266c40757f5b7_bkkir2.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/v1776582015/Aching_bgcmss.mp3"
+  }
 ]
