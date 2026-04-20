@@ -40,5 +40,11 @@
     "artist": "Masatoshi Ono",
     "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/q_auto/f_auto/v1776679222/ab67616d0000b273f7aa0fd62a866dd3dfa54e50_lucxaq.jpg",
     "src": "https://res.cloudinary.com/dhbngei3p/video/upload/q_auto/f_auto/v1776679296/departure_w6pq2g.mp3"
+  },
+    {
+    "title": "Khoobsurat",
+    "artist": "Sachin-Jigar, Vishal Mishra, Amitabh Bhattacharya",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/v1776705430/ab67616d0000b273dd5eaafc5f4075139d7f34b4_zigpto.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/v1776705764/Khoobsurat_From_Stree_2_rr3eno.mp3"
   }
 ]
