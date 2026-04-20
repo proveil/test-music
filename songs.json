@@ -22,5 +22,23 @@
     "artist": "protag",
     "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/q_auto/f_auto/v1776678430/ab67706c0000d72c82ecbd23d9c3f9ccf495be50_u4eaqv.webp",
     "src": "https://res.cloudinary.com/dhbngei3p/video/upload/q_auto/f_auto/v1776678472/ShadowBound_znjmhg.mp3"
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/q_auto/f_auto/v1776678818/ab67616d0000b2739e2f95ae77cf436017ada9cb_e2vep9.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/q_auto/f_auto/v1776678885/Counting_Stars_i4vzrw.mp3"
+  },
+    {
+    "title": "Sunroof",
+    "artist": "Nicky Youre, hey daisy",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/q_auto/f_auto/v1776679033/ab67616d0000b273ecd970d1d2623b6c7fc6080c_nxe2sc.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/q_auto/f_auto/v1776679074/Sunroof_k8ylao.mp3"
+  },
+  {
+    "title": "departure!",
+    "artist": "Masatoshi Ono",
+    "cover": "https://res.cloudinary.com/dhbngei3p/image/upload/q_auto/f_auto/v1776679222/ab67616d0000b273f7aa0fd62a866dd3dfa54e50_lucxaq.jpg",
+    "src": "https://res.cloudinary.com/dhbngei3p/video/upload/q_auto/f_auto/v1776679296/departure_w6pq2g.mp3"
   }
 ]
